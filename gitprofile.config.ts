@@ -91,7 +91,8 @@ const CONFIG = {
     'Docker',
     'MySQL',
     'PostgreSQL',
-    'RestApi;,'
+    'RestAPI',
+    'CI/CD',
   ],
   experiences: [
     {
